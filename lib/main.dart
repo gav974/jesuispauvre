@@ -17,10 +17,11 @@ class MyApp extends StatelessWidget {
 
         home:Scaffold(
           appBar: AppBar(
-            title:const Text("JE SUIS PAUVRE",
+            title:const Text("JE SUIS PAUVRE" ,
                style: TextStyle(
-                 fontWeight: FontWeight.w700,
-              )),
+                 fontWeight: FontWeight.w600,
+              )
+            ),
             backgroundColor: Colors.white10,
 
           ),
